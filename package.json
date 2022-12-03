@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/werne2j/sample-nodejs.git"
+    "url": "git+https://github.com/navaryan13/sample-nodejs.git"
   },
   "author": "Jake Wernette",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/werne2j/sample-nodejs/issues"
+    "url": "https://github.com/navaryan13/sample-nodejs/issues"
   },
-  "homepage": "https://github.com/werne2j/sample-nodejs#readme"
+  "homepage": "https://github.com/navaryan13/sample-nodejs#readme"
 }
