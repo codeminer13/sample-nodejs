@@ -4,7 +4,7 @@
   "description": "Sample NodeJS App",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"No tests specified\""
+    "test": "istanbul cover --include-all-sources index.js && istanbul check-coverage"
   },
   "repository": {
     "type": "git",
