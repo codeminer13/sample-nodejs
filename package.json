@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/navaryan13/sample-nodejs/issues"
   },
-  "homepage": "https://github.com/navaryan13/sample-nodejs#readme"
+  "homepage": "https://github.com/navaryan13/sample-nodejs#readme",
+  "devDependencies": {
+    "sonarqube-scanner": "^2.8.2"
+  },
+  "dependencies": {
+    "coverage-istanbul-loader": "^3.0.5"
+  }
 }
